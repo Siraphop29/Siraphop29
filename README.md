@@ -26,7 +26,7 @@ Currently exploring software development and improving my coding skills.
 
 ## 📫 Connect with Me
 
-- GitHub: [@Siraphop29](https://github.com/YOUR_USERNAME)
+- GitHub: [@Siraphop29](https://github.com/Siraphop29)
 
 ---
 
