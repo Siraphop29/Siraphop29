@@ -30,7 +30,7 @@ Currently exploring software development and improving my coding skills.
 
 ---
 
-*Always learning, always building.* 🚀
+*Always learning, always building and Hapiness.* 🚀
 <!--
 **Siraphop29/Siraphop29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
