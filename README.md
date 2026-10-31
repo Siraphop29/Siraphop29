@@ -1,5 +1,36 @@
-## Hi there 👋
+# Hi, I'm a Computer Engineering Student 👋
 
+I'm a Computer Engineering student who enjoys learning programming and developing new things.
+
+Currently exploring software development and improving my coding skills.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C
+- **IDE:** Visual Studio Code
+- **Field:** Computer Engineering
+
+## 🌱 Currently Learning
+
+- Python Programming
+- C Programming
+- Data Structures & Algorithms
+- Software Development
+
+## 🎯 Goals
+
+- Improve my programming skills
+- Build useful projects
+- Learn new technologies
+- Become a better Software Developer
+
+## 📫 Connect with Me
+
+- GitHub: [@Siraphop29](https://github.com/YOUR_USERNAME)
+
+---
+
+*Always learning, always building.* 🚀
 <!--
 **Siraphop29/Siraphop29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
